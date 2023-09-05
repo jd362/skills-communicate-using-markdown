@@ -4,3 +4,6 @@ Added a h1 header
 ``` python
 print("Hello, world!");
 ```
+- [ ] Complete github tutorial
+- [ ] upload screenshot
+- [x] Introduce myself to the world
